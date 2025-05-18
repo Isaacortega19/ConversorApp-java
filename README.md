@@ -30,4 +30,4 @@ Este proyecto es un **conversor de monedas** desarrollado en **Java**, que permi
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/isaacortega19/conversor-monedas-java.git
+   git clone https://github.com/isaacortega19/ConversorApp-java.git
